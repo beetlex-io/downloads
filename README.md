@@ -20,3 +20,13 @@ BeetleX.VueHost.exe //默认port=80
 ./BeetleX.VueHost //默认port=80
 ```
 ![image](https://user-images.githubusercontent.com/2564178/108494853-fc89d980-72e2-11eb-8f13-d4907c44f94d.png)
+
+## Webapi压测
+下载`webbenchmark-xxx-xxx.zip`
+```
+//windows
+WebBenchmarkApp.exe //默认port=80
+//linux
+./WebBenchmarkApp //默认port=80
+```
+![image](https://user-images.githubusercontent.com/2564178/108511209-8c874d80-72fa-11eb-88f6-9d579aeba918.png)
