@@ -53,4 +53,16 @@ WS-BenchmarkApp.exe //默认port=80
 ```
 ![image](https://user-images.githubusercontent.com/2564178/108582640-85e6ed80-736f-11eb-8972-2ca6afb7ee16.png)
 
+## TCP压力测试工具
+下载`tcpbenchmark-xxx-xxx.zip`
+```
+//windows
+TCP-BenchmarkApp.exe //默认port=80
+//linux
+./TCP-BenchmarkApp //默认port=80
+```
+![image](https://user-images.githubusercontent.com/2564178/108582778-4a98ee80-7370-11eb-94be-920f5be3b46d.png)
+
+
+
 
