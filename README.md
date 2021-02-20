@@ -22,6 +22,18 @@ BeetleX.TagsAnalyzeApp.exe //默认port=80
 ```
 ![image](https://user-images.githubusercontent.com/2564178/108582290-33a4cd00-736d-11eb-8e8c-688de1600f53.png)
 
+## 产品销售标签大数据分析
+下载`OrderAnalyzeApp-xxx-xxx.zip` [在线演示](http://data.beetlex.io/)
+```
+//windows
+BeetleX.OrderAnalyzeApp.exe //默认port=80
+//linux
+./BeetleX.OrderAnalyzeApp //默认port=80
+```
+![image](https://user-images.githubusercontent.com/2564178/108585432-81c4cb00-7383-11eb-8847-939a7cdd3327.png)
+
+
+
 ## Webapi压测
 下载`webbenchmark-xxx-xxx.zip` [在线演示](http://webapi.beetlex.io/)
 ```
