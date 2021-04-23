@@ -13,24 +13,18 @@ BumblebeeApp.exe //默认port=80
 
 
 ## 数据标签大数据分析
-下载`TagsAnalyze-xxx-xxx.zip` [在线演示](http://tagdata.beetlex.io/)
+下载`BeetleX.DataAnalyzeApp-xxx-xxx.zip` [在线演示](http://data.beetlex.io/)
 ```
 //windows
-BeetleX.TagsAnalyzeApp.exe //默认port=80
+BeetleX.DataAnalyzeApp.exe //默认port=80
 //linux
-./BeetleX.TagsAnalyzeApp //默认port=80
+./BeetleX.DataAnalyzeApp//默认port=80
 ```
-![image](https://user-images.githubusercontent.com/2564178/108582290-33a4cd00-736d-11eb-8e8c-688de1600f53.png)
+![image](https://user-images.githubusercontent.com/2564178/115837259-f6cb8400-a44a-11eb-9370-2f35bc8fd465.png)
+![image](https://user-images.githubusercontent.com/2564178/115837300-00ed8280-a44b-11eb-8684-44d2e6979bdc.png)
+![image](https://user-images.githubusercontent.com/2564178/115837316-05b23680-a44b-11eb-810b-cef88b2c4234.png)
+![image](https://user-images.githubusercontent.com/2564178/115837330-08ad2700-a44b-11eb-839d-b2496ae4d26d.png)
 
-## 产品销售标签大数据分析
-下载`OrderAnalyzeApp-xxx-xxx.zip` [在线演示](http://data.beetlex.io/)
-```
-//windows
-BeetleX.OrderAnalyzeApp.exe //默认port=80
-//linux
-./BeetleX.OrderAnalyzeApp //默认port=80
-```
-![image](https://user-images.githubusercontent.com/2564178/108585432-81c4cb00-7383-11eb-8847-939a7cdd3327.png)
 
 
 
@@ -42,7 +36,7 @@ WebBenchmarkApp.exe //默认port=80
 //linux
 ./WebBenchmarkApp //默认port=80
 ```
-![image](https://user-images.githubusercontent.com/2564178/108511209-8c874d80-72fa-11eb-88f6-9d579aeba918.png)
+![image](https://user-images.githubusercontent.com/2564178/115837010-b835c980-a44a-11eb-95e6-459baadc7455.png)
 
 
 ## vue开发插件
